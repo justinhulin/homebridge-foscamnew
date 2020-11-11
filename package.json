@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": git://github.com/justinhulin/homebridge-foscamnew.git"
+    "url": "git://github.com/justinhulin/homebridge-foscamnew.git"
   },
   "dependencies": {
     "axios-digest": "^0.1.1",
